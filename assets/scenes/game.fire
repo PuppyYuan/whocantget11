@@ -317,8 +317,9 @@
       "__id__": 6
     },
     "_enabled": true,
-    "_controller": null,
-    "_cellViews": [],
+    "_cells": [],
+    "_max_num": 4,
+    "_count": 0,
     "cellPrefab": {
       "__uuid__": "d67e3468-8024-4379-8acc-f22475ff8e41"
     }

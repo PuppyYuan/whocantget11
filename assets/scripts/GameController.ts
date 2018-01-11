@@ -13,11 +13,15 @@ export default class GameController extends cc.Component {
     _gameModel = null;
 
     onLoad() {
-        this._gameModel = new GameModel();
+        // this._gameModel = new GameModel();
 
-        this.grid.setController(this);
-        this.grid.initWithCellModels(this._gameModel.getCells());
+        // this.grid.setController(this);
+        // this.grid.initWithCellModels(this._gameModel.getCells());
 
+    }
+
+    selectCell(cellPos: cc.Vec2): any {
+        return this._gameModel.selectCell(cellPos);
     }
 
     // update (dt) {},

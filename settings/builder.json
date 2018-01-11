@@ -1,0 +1,32 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.whocanget11",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "070d60b6-4761-4d0e-be52-4754c7c07858",
+  "title": "whocanget11",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wx899a7e2b13684b11",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "4850d383-8e78-49"
+}

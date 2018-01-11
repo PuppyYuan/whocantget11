@@ -1,7 +1,5 @@
-window.MAX_NUM = 4;
-
-window.CELL_WIDTH = 112;
-window.CELL_HEIGHT = 112;
+window.CELL_WIDTH = 100;
+window.CELL_HEIGHT = 100;
 
 window.GRID_WIDTH = 600;
 window.GRID_HEIGHT = 600;
